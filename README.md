@@ -127,7 +127,7 @@ CatBoost achieved the highest ROC-AUC score after hyperparameter optimization.
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/telco-churn-prediction.git
+git clone https://github.com/furkandonmeez/telco-churn-prediction.git
 
 cd telco-churn-prediction
 
